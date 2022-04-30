@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "d481b849bb4d7",
+      "name": "Maria Lopez",
+      "username": "lopezm",
+      "email": "marialopez@yahoo.es"
+    },
+    {
+      "id": "bed44aebdbe97",
+      "name": "Carlos Marin",
+      "username": "marinc",
+      "email": "carlosmarin@yahoo.com"
+    },
+    {
+      "id": "f1d4353703e52",
+      "name": "Juana Quintanilla",
+      "username": "quintanillaj",
+      "email": "juanaquintanilla@gmail.com"
+    },
+    {
+      "id": "298180cd03b15",
+      "name": "Pepito Suarez",
+      "username": "suarezp",
+      "email": "pepitosuarez@yahoo.es"
+    },
+    {
+      "id": "7683355dadd9",
+      "name": "Alejandra Perez",
+      "username": "pereza",
+      "email": "alejandraperez@gmail.com"
+    },
+    {
+      "id": "91dc0b9dbd232",
+      "name": "Newman Ferrer",
+      "username": "newmanf",
+      "email": "nferrer@gmail.com"
+    },
+    {
+      "id": "082063defe5d2",
+      "name": "Petra Lopez",
+      "username": "lopezp",
+      "email": "petralopez@gmail.com"
+    }
+  ]
+}
